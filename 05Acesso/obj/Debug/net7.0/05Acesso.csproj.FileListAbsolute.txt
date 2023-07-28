@@ -1,0 +1,15 @@
+D:\orientação a objeto\05Acesso\bin\Debug\net7.0\05Acesso.exe
+D:\orientação a objeto\05Acesso\bin\Debug\net7.0\05Acesso.deps.json
+D:\orientação a objeto\05Acesso\bin\Debug\net7.0\05Acesso.runtimeconfig.json
+D:\orientação a objeto\05Acesso\bin\Debug\net7.0\05Acesso.dll
+D:\orientação a objeto\05Acesso\bin\Debug\net7.0\05Acesso.pdb
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.csproj.AssemblyReference.cache
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.AssemblyInfoInputs.cache
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.AssemblyInfo.cs
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.dll
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\refint\05Acesso.dll
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.pdb
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\05Acesso.genruntimeconfig.cache
+D:\orientação a objeto\05Acesso\obj\Debug\net7.0\ref\05Acesso.dll

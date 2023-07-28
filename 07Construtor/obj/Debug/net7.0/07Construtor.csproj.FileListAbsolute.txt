@@ -1,0 +1,15 @@
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.csproj.AssemblyReference.cache
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfoInputs.cache
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfo.cs
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\07Construtor\bin\Debug\net7.0\07Construtor.exe
+D:\orientação a objeto\07Construtor\bin\Debug\net7.0\07Construtor.deps.json
+D:\orientação a objeto\07Construtor\bin\Debug\net7.0\07Construtor.runtimeconfig.json
+D:\orientação a objeto\07Construtor\bin\Debug\net7.0\07Construtor.dll
+D:\orientação a objeto\07Construtor\bin\Debug\net7.0\07Construtor.pdb
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.dll
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\refint\07Construtor.dll
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.pdb
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\07Construtor.genruntimeconfig.cache
+D:\orientação a objeto\07Construtor\obj\Debug\net7.0\ref\07Construtor.dll

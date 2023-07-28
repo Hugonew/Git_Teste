@@ -1,0 +1,15 @@
+D:\orientação a objeto\14Interface\bin\Debug\net7.0\14Interface.exe
+D:\orientação a objeto\14Interface\bin\Debug\net7.0\14Interface.deps.json
+D:\orientação a objeto\14Interface\bin\Debug\net7.0\14Interface.runtimeconfig.json
+D:\orientação a objeto\14Interface\bin\Debug\net7.0\14Interface.dll
+D:\orientação a objeto\14Interface\bin\Debug\net7.0\14Interface.pdb
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.csproj.AssemblyReference.cache
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfoInputs.cache
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfo.cs
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.dll
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\refint\14Interface.dll
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.pdb
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\14Interface.genruntimeconfig.cache
+D:\orientação a objeto\14Interface\obj\Debug\net7.0\ref\14Interface.dll

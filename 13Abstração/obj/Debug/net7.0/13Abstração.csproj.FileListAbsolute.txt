@@ -1,0 +1,15 @@
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.csproj.AssemblyReference.cache
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.AssemblyInfoInputs.cache
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.AssemblyInfo.cs
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\13Abstração\bin\Debug\net7.0\13Abstração.exe
+D:\orientação a objeto\13Abstração\bin\Debug\net7.0\13Abstração.deps.json
+D:\orientação a objeto\13Abstração\bin\Debug\net7.0\13Abstração.runtimeconfig.json
+D:\orientação a objeto\13Abstração\bin\Debug\net7.0\13Abstração.dll
+D:\orientação a objeto\13Abstração\bin\Debug\net7.0\13Abstração.pdb
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.dll
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\refint\13Abstração.dll
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.pdb
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\13Abstração.genruntimeconfig.cache
+D:\orientação a objeto\13Abstração\obj\Debug\net7.0\ref\13Abstração.dll

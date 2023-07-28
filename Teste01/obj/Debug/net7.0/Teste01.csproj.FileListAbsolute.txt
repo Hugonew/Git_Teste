@@ -1,0 +1,15 @@
+D:\orientação a objeto\Teste01\bin\Debug\net7.0\Teste01.exe
+D:\orientação a objeto\Teste01\bin\Debug\net7.0\Teste01.deps.json
+D:\orientação a objeto\Teste01\bin\Debug\net7.0\Teste01.runtimeconfig.json
+D:\orientação a objeto\Teste01\bin\Debug\net7.0\Teste01.dll
+D:\orientação a objeto\Teste01\bin\Debug\net7.0\Teste01.pdb
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.csproj.AssemblyReference.cache
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.AssemblyInfoInputs.cache
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.AssemblyInfo.cs
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.dll
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\refint\Teste01.dll
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.pdb
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\Teste01.genruntimeconfig.cache
+D:\orientação a objeto\Teste01\obj\Debug\net7.0\ref\Teste01.dll

@@ -1,0 +1,15 @@
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\bin\Debug\net7.0\04ExercicioM2.exe
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\bin\Debug\net7.0\04ExercicioM2.deps.json
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\bin\Debug\net7.0\04ExercicioM2.runtimeconfig.json
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\bin\Debug\net7.0\04ExercicioM2.dll
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\bin\Debug\net7.0\04ExercicioM2.pdb
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.csproj.AssemblyReference.cache
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.AssemblyInfoInputs.cache
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.AssemblyInfo.cs
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.dll
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\refint\04ExercicioM2.dll
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.pdb
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\04ExercicioM2.genruntimeconfig.cache
+D:\orientação a objeto\04ExercicioIMC\04ExercicioM2\obj\Debug\net7.0\ref\04ExercicioM2.dll

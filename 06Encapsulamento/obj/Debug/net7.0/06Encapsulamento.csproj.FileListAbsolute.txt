@@ -1,0 +1,15 @@
+D:\orientação a objeto\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+D:\orientação a objeto\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+D:\orientação a objeto\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+D:\orientação a objeto\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+D:\orientação a objeto\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.AssemblyReference.cache
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+D:\orientação a objeto\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll

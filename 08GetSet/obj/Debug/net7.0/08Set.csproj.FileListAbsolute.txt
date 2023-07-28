@@ -1,0 +1,15 @@
+D:\orientação a objeto\08GetSet\bin\Debug\net7.0\08Set.exe
+D:\orientação a objeto\08GetSet\bin\Debug\net7.0\08Set.deps.json
+D:\orientação a objeto\08GetSet\bin\Debug\net7.0\08Set.runtimeconfig.json
+D:\orientação a objeto\08GetSet\bin\Debug\net7.0\08Set.dll
+D:\orientação a objeto\08GetSet\bin\Debug\net7.0\08Set.pdb
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.csproj.AssemblyReference.cache
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.AssemblyInfoInputs.cache
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.AssemblyInfo.cs
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.dll
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\refint\08Set.dll
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.pdb
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\08Set.genruntimeconfig.cache
+D:\orientação a objeto\08GetSet\obj\Debug\net7.0\ref\08Set.dll

@@ -1,0 +1,15 @@
+D:\orientação a objeto\12Estático\bin\Debug\net7.0\12Estático.exe
+D:\orientação a objeto\12Estático\bin\Debug\net7.0\12Estático.deps.json
+D:\orientação a objeto\12Estático\bin\Debug\net7.0\12Estático.runtimeconfig.json
+D:\orientação a objeto\12Estático\bin\Debug\net7.0\12Estático.dll
+D:\orientação a objeto\12Estático\bin\Debug\net7.0\12Estático.pdb
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.csproj.AssemblyReference.cache
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.AssemblyInfoInputs.cache
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.AssemblyInfo.cs
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.dll
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\refint\12Estático.dll
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.pdb
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\12Estático.genruntimeconfig.cache
+D:\orientação a objeto\12Estático\obj\Debug\net7.0\ref\12Estático.dll

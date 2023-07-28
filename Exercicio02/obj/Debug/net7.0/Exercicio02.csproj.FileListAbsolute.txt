@@ -1,0 +1,15 @@
+D:\orientação a objeto\Exercicio02\bin\Debug\net7.0\Exercicio02.exe
+D:\orientação a objeto\Exercicio02\bin\Debug\net7.0\Exercicio02.deps.json
+D:\orientação a objeto\Exercicio02\bin\Debug\net7.0\Exercicio02.runtimeconfig.json
+D:\orientação a objeto\Exercicio02\bin\Debug\net7.0\Exercicio02.dll
+D:\orientação a objeto\Exercicio02\bin\Debug\net7.0\Exercicio02.pdb
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.csproj.AssemblyReference.cache
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.AssemblyInfoInputs.cache
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.AssemblyInfo.cs
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.dll
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\refint\Exercicio02.dll
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.pdb
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\Exercicio02.genruntimeconfig.cache
+D:\orientação a objeto\Exercicio02\obj\Debug\net7.0\ref\Exercicio02.dll

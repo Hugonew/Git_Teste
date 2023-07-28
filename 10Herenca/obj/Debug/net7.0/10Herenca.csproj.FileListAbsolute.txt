@@ -1,0 +1,15 @@
+D:\orientação a objeto\10Herenca\bin\Debug\net7.0\10Herenca.exe
+D:\orientação a objeto\10Herenca\bin\Debug\net7.0\10Herenca.deps.json
+D:\orientação a objeto\10Herenca\bin\Debug\net7.0\10Herenca.runtimeconfig.json
+D:\orientação a objeto\10Herenca\bin\Debug\net7.0\10Herenca.dll
+D:\orientação a objeto\10Herenca\bin\Debug\net7.0\10Herenca.pdb
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.csproj.AssemblyReference.cache
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.AssemblyInfoInputs.cache
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.AssemblyInfo.cs
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.dll
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\refint\10Herenca.dll
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.pdb
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\10Herenca.genruntimeconfig.cache
+D:\orientação a objeto\10Herenca\obj\Debug\net7.0\ref\10Herenca.dll

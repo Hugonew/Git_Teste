@@ -1,0 +1,15 @@
+D:\orientação a objeto\09This\bin\Debug\net7.0\09This.exe
+D:\orientação a objeto\09This\bin\Debug\net7.0\09This.deps.json
+D:\orientação a objeto\09This\bin\Debug\net7.0\09This.runtimeconfig.json
+D:\orientação a objeto\09This\bin\Debug\net7.0\09This.dll
+D:\orientação a objeto\09This\bin\Debug\net7.0\09This.pdb
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.csproj.AssemblyReference.cache
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.AssemblyInfoInputs.cache
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.AssemblyInfo.cs
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.csproj.CoreCompileInputs.cache
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.dll
+D:\orientação a objeto\09This\obj\Debug\net7.0\refint\09This.dll
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.pdb
+D:\orientação a objeto\09This\obj\Debug\net7.0\09This.genruntimeconfig.cache
+D:\orientação a objeto\09This\obj\Debug\net7.0\ref\09This.dll
